@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently focusing on  **building a strong foundation in the language**
 
-- 👨‍💻 All of my projects are available at [https://harshdekate.github.io/](https://harshbyte.tech)
+- 👨‍💻 All of my projects are available at [https://harshbyte.tech/](https://harshbyte.tech)
 
 - 💬 Ask me about **Java and web development**
 
