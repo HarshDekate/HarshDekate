@@ -37,7 +37,7 @@ I'm a passionate web developer with a love for creating digital experiences that
 
 ## My Projects
 
-### [Team Lead and Smart Go-Kart Developer]([https://project1-link.com](https://harshdekate.github.io/Go-Kart-Automation-Web-Application/))
+### [Team Lead and Smart Go-Kart Developerl LanguageProcessing](https://harshdekate.github.io/Go-Kart-Automation-Web-Application/)
 
 - ✨ Description: As the Team Lead and Smart Go-Kart Developer, I led a team of developers in transforming a normal go-kart into a smart vehicle. The project involved developing a web application that could be used to control and monitor the go-kart's performance using a mobile device or a computer. We also integrated electronic components such as ESP32, tilt sensor, and LDR sensor into the go-kart's design.
 - 🛠️ Technologies: HTML, CSS, JavaScript, C++ 
