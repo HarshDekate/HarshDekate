@@ -1,14 +1,12 @@
-# ![Header Image](https://your-website.com/path-to-your-image.png)
-
-## Hey there! 👋 I'm [Your Name]
+## Hey there! 👋 I'm Harsh Dekate
 
 I'm a passionate web developer with a love for creating digital experiences that leave a mark. I believe in the power of clean code, stunning design, and seamless functionality.
 
-🌐 Explore my portfolio: [Portfolio](https://your-portfolio.com)
+🌐 Explore my portfolio: [Portfolio](https://harshbyte.tech)
 
 ## What I Do
 
-- 💼 Currently working at [Company Name](https://company-website.com)
+- 💼 Currently i am Frelancer 
 - 🚀 Launching innovative web projects
 - 🎨 Designing pixel-perfect UI/UX
 - 🛠️ Crafting efficient and maintainable code
@@ -20,14 +18,14 @@ I'm a passionate web developer with a love for creating digital experiences that
 
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks**: React, Vue.js
-- **Styling**: SASS/SCSS, CSS-in-JS
-- **Tools**: Webpack, Babel
+- **Styling**: CSS-in-JS
+- **Tools**: VS Code
 
 ### Backend
 
-- **Languages**: Node.js, Python
-- **Frameworks**: Express, Django
-- **Databases**: MongoDB, PostgreSQL
+- **Languages**: Node.js, Python, Java
+- **Frameworks**: Spring
+- **Databases**: MySQL, SQL, pHP
 - **RESTful APIs**
 
 ### DevOps
@@ -39,21 +37,21 @@ I'm a passionate web developer with a love for creating digital experiences that
 
 ## My Projects
 
-### [Project Name 1](https://project1-link.com)
+### Team Lead and Smart Go-Kart Developer ([https://project1-link.com](https://harshdekate.github.io/Go-Kart-Automation-Web-Application/))
 
-- ✨ Description: Briefly describe this amazing project.
-- 🛠️ Technologies: HTML, CSS, JavaScript, React
-- 📂 Repository: [GitHub Repo](https://github.com/yourusername/project1)
+- ✨ Description: As the Team Lead and Smart Go-Kart Developer, I led a team of developers in transforming a normal go-kart into a smart vehicle. The project involved developing a web application that could be used to control and monitor the go-kart's performance using a mobile device or a computer. We also integrated electronic components such as ESP32, tilt sensor, and LDR sensor into the go-kart's design.
+- 🛠️ Technologies: HTML, CSS, JavaScript, C++ 
+- 📂 Repository: [GitHub Repo]([https://github.com/yourusername/project1](https://github.com/HarshDekate/Go-Kart-Automation-Web-Application))
 
-### [Project Name 2](https://project2-link.com)
+### [Storytelling App for Child Using Natural LanguageProcessing](https://project2-link.com)
 
-- ✨ Description: Another fantastic project worth showcasing.
-- 🛠️ Technologies: Node.js, Express, MongoDB
+- ✨ Description: The project is a mobile app that converts written text into sign language images for hearing-impaired children. It uses speech APIs and natural language processing techniques to translate English words into Indian sign language. The app caters to the specific needs of hearing-impaired children and contributes significantly to the field of assistive technology. The innovative approach to storytelling provides a tailored experience for engaging and accessible storytelling. The project highlights the possibilities of technology serving diverse communities.
+- 🛠️ Technologies: HTML, CSS, JavaScript, Python, NLP.
 - 📂 Repository: [GitHub Repo](https://github.com/yourusername/project2)
 
 ## Get In Touch
 
 Let's connect and discuss exciting opportunities!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
--
+- 📧 Email: [your.email@example.com](mailto:info@harshbyte.tech)
+
