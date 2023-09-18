@@ -53,5 +53,5 @@ I'm a passionate web developer with a love for creating digital experiences that
 
 Let's connect and discuss exciting opportunities!
 
-- 📧 Email: [your.email@example.com](mailto:info@harshbyte.tech)
+- 📧 Email: [info@harshbyte.tech](mailto:info@harshbyte.tech)
 
