@@ -4,6 +4,18 @@ I'm a passionate web developer with a love for creating digital experiences that
 
 🌐 Explore my portfolio: [Portfolio](https://harshbyte.tech)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  
+</picture>
+
 ## What I Do
 
 - 💼 Currently i am Frelancer 
