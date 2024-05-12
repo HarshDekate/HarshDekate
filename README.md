@@ -1,4 +1,4 @@
-##  Harsh Dekate - Full Stack Developer  
+https://media.licdn.com/dms/image/D5616AQFuHHt7AVGiDw/profile-displaybackgroundimage-shrink_350_1400/0/1713984161687?e=1721260800&v=beta&t=YwEoM3bdY9whFF_uzOZwDE2Fphzsut2KexCix5gAXA4
 
 **Greetings from the land of tigers and oranges!**  (Yes, that's Nagpur!)
 
