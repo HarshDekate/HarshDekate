@@ -78,4 +78,3 @@ I'm Harsh, a full-stack developer fueled by coffee and a passion for crafting ex
 
 Feel free to delve into my GitHub repositories and connect if you have any projects in mind. I'm always up for a challenge and love to collaborate!
 
-**P.P.S.** Check out these resources to add a programmer-themed ASCII art or a captivating GIF to make your profile truly epic!  
