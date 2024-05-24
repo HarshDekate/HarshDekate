@@ -2,6 +2,8 @@
 
 **Greetings from the land of tigers and oranges!**  (Yes, that's Nagpur!)
 
+https://camo.githubusercontent.com/222ec0f23b16bcf0ea313d14b715a877bb3205669214e8153597c3be3cd877c7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61797573686b686f64616e6b6172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765
+
 I'm Harsh, a full-stack developer fueled by coffee and a passion for crafting exceptional web applications.  I wield the power of Java Spring Boot for the backend and weave user interfaces that sing with HTML, CSS, and JavaScript. 
 
 **Here's why you should hire me (or at least follow me ):**
