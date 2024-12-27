@@ -20,7 +20,8 @@ I'm Harsh, a full-stack developer fueled by coffee and a passion for crafting ex
 **Let's Connect!** 
 
 * **LinkedIn:** [https://in.linkedin.com/in/harsh-dekate-b54745237](https://in.linkedin.com/in/harsh-dekate-b54745237)
-* **Website:** [https://harshbyte.tech/](https://harshbyte.tech/)
+* **Website:** [https://harshbyte.tech/](https://harshbyte.tech/ )
+* * **Website:** [https://harshdekate.42web.io/](https://harshdekate.42web.io/ )
 
 **Tech Stack** 
 
